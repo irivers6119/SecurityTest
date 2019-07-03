@@ -1,0 +1,13 @@
+.gradle
+.settings
+.classpath
+bin/
+lib/
+build/
+
+
+
+
+
+/target/
+/.apt_generated/
